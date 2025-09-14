@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/seu-usuário-aqui/jpjotz/blob/output/github-contribution-grid-snake.svg)
 
 # 🚀 Sobre mim
 Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tudo que envolve tecnologia e fascinado com programação! Programando desde os 16 anos.
@@ -41,7 +42,6 @@ Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tu
 
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/jpjotz/blob/output/github-contribution-grid-snake.svg)
           
 
 
