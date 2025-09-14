@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/seu-usuário-aqui/jpjotz/blob/output/github-contribution-grid-snake.svg)
-
 # 🚀 Sobre mim
 Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tudo que envolve tecnologia e fascinado com programação! Programando desde os 16 anos.
 
@@ -40,7 +38,11 @@ Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tu
           <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jpjotz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpjotz/jpjotz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpjotz/jpjotz/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jpjotz/jpjotz/output/github-contribution-grid-snake.svg">
+</picture>
 
           
 
