@@ -5,7 +5,7 @@ Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tu
 
 ## 🛠 Habilidades
 ### Estudando atualmente
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 
 
           
