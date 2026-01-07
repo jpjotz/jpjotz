@@ -44,11 +44,8 @@ Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tu
 # 📊 Stats
 <div>
           <a href="https://github.com/jpjotz">
-          ![jpjotz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=jpjotz)
+          [jpjotz's GitHub Stats](https://readme-stats-github.pages.dev/api?username=jpjotz)
           ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=jpjotz)
-</div>
-
-pq nao ta funcionando?
 
 
 <picture align="center">
