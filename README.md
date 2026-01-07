@@ -42,7 +42,7 @@ Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tu
 
 
 # 📊 Stats
-<div>
+<div id="stats">
           <a href="https://github.com/jpjotz">
           <img loading="lazy" height="180em" src="https://readme-stats-github.pages.dev/api?username=jpjotz"/>
           <img loading="lazy" height="180em" src="https://readme-stats-github.pages.dev/api/top-langs?username=jpjotz"/>
@@ -54,6 +54,13 @@ Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tu
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpjotz/jpjotz/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jpjotz/jpjotz/output/github-contribution-grid-snake.svg">
 </picture>
+
+<style>
+          #stats {
+                    display: flex;
+                    gap: 5px;
+          }
+</style>
 
           
 
