@@ -58,7 +58,7 @@ Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tu
 <style>
           #stats {
                     display: flex;
-                    gap: 5px;
+                    gap: 25px;
           }
 </style>
 
