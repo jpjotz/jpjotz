@@ -8,13 +8,13 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
 
 # 🛠 Habilidades
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">&nbsp;&nbsp;
-  <img width="50px" src="https://skillicons.dev/icons?i=html" style="margin: 6px;" />&nbsp;&nbsp;
-  <img width="50px" src="https://skillicons.dev/icons?i=css" style="margin: 6px;" />&nbsp;&nbsp;
-  <img width="50px" src="https://skillicons.dev/icons?i=js" style="margin: 6px;" />&nbsp;&nbsp;
-  <img width="50px" src="https://skillicons.dev/icons?i=react" style="margin: 6px;" />&nbsp;&nbsp;
-  <img width="50px" src="https://skillicons.dev/icons?i=dart" style="margin: 6px;" />&nbsp;&nbsp;
-  <img width="50px" src="https://skillicons.dev/icons?i=tailwind" style="margin: 6px;" />&nbsp;&nbsp;
-  <img width="50px" src="https://skillicons.dev/icons?i=git" style="margin: 6px;" />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=html" title='HTML5' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=css" title='CSS3' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=js" title='JavaScript' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=react" title='React' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=dart" title='Dart' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=tailwind" title='TailwindCSS' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=git" title='Git' />&nbsp;&nbsp;
 </div>
 
 
