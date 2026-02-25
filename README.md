@@ -3,7 +3,7 @@ Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tu
 
 
 # 🛠 Habilidades
-<div>
+<div align='center' style='display: flex; gap:10px; justify-content: center; flex-wrap: wrap'>
           <img width="50px" src="https://skillicons.dev/icons?i=html" title='HTML5' />
           <img width="50px" src="https://skillicons.dev/icons?i=css" title='CSS3' />
           <img width="50px" src="https://skillicons.dev/icons?i=js" title='JavaScript' />
