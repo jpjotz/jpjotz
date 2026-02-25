@@ -20,7 +20,7 @@ Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tu
 ### 📚 Estudando Atualmente
 <div>
           <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-          <img color='white' width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+          <i width='50px' class="devicon-express-original-wordmark"></i>
           <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
           <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
