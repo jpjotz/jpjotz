@@ -4,7 +4,7 @@ Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tu
 
 # 🛠 Habilidades
 <div>
-          [<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />](https://skillicons.dev/icons?i=all)
+          [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
           <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/>
           <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
           <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
