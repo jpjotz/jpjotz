@@ -4,14 +4,13 @@ Estudante de Ciência da Computação pela Universidade FUMEC, apaixonado por tu
 
 # 🛠 Habilidades
 <div>
-          <img width="50px" src="https://skillicons.dev/icons?i=html"/>
-          <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-          <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-          <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-          <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg"/>
-          <img width="70px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
-          <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+          <img width="50px" src="https://skillicons.dev/icons?i=html" title='HTML5' />
+          <img width="50px" src="https://skillicons.dev/icons?i=css" title='CSS3' />
+          <img width="50px" src="https://skillicons.dev/icons?i=js" title='JavaScript' />
+          <img width="50px" src="https://skillicons.dev/icons?i=react" title='React' />
+          <img width="50px" src="https://skillicons.dev/icons?i=dart" title='Dart' />
+          <img width="50px" height="50px" src="https://skillicons.dev/icons?i=tailwind" title='Tailwind CSS' />
+          <img width="50px" src="https://skillicons.dev/icons?i=git"/>
           
 </div>
 
