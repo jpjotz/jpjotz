@@ -39,8 +39,8 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
 # 📲 Contatos
 <div align='center'>
           <a href="https://wa.me/5531986298378" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>&nbsp;&nbsp;
-          <a href = "mailto:joaop.ribeiroo01@gmail.com"> <img loading="lazy" src="https://skillicons.dev/icons?i=gmail" target="_blank"> </a>&nbsp;&nbsp;
-          <a href="https://www.linkedin.com/in/joão-pedro-do-espírito-santo-ribeiro/" target="_blank"> <img loading="lazy" src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> &nbsp;&nbsp;
+          <a href = "mailto:joaop.ribeiroo01@gmail.com"> <img loading="lazy" src="https://skillicons.dev/icons?i=gmail"> </a>&nbsp;&nbsp;
+          <a href="https://www.linkedin.com/in/joão-pedro-do-espírito-santo-ribeiro/" target="_blank"> <img loading="lazy" src="https://skillicons.dev/icons?i=linkedin"></a> &nbsp;&nbsp;
 </div>
 
 
