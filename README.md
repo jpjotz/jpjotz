@@ -6,7 +6,7 @@ Atualmente desenvolvo aplicações web utilizando React, com foco em organizaç�
 Gosto de entender como as aplicações funcionam por trás dos panos, desde a interface até a comunicação com banco de dados, buscando sempre evoluir na construção de sistemas mais completos e bem estruturados.
 
 
-# 🛠 Habilidades
+# 🛠 Tecnologias
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=html" title='HTML5' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=css" title='CSS3' />&nbsp;&nbsp;
