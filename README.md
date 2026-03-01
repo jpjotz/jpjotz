@@ -15,6 +15,9 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
   <img width="50px" src="https://skillicons.dev/icons?i=tailwind" title='TailwindCSS' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=dart" title='Dart' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=flutter" title='Flutter' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=npm" title='NPM' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=vite" title='Vite' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=vercel" title='Vercel' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=git" title='Git' />&nbsp;&nbsp;
 </div>
 
@@ -34,6 +37,7 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
           <img width="50px" src="https://skillicons.dev/icons?i=typescript" title='TypeScript' />&nbsp;&nbsp;
           <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" title='React Native' />&nbsp;&nbsp;
           <img width='50px' src="https://skillicons.dev/icons?i=angular" title='Angular' />&nbsp;&nbsp;
+          <img width="50px" src="https://skillicons.dev/icons?i=docker" title='Docker' />&nbsp;&nbsp;
           
 </div>
 
