@@ -12,8 +12,9 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
   <img width="50px" src="https://skillicons.dev/icons?i=css" title='CSS3' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=js" title='JavaScript' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=react" title='React' />&nbsp;&nbsp;
-  <img width="50px" src="https://skillicons.dev/icons?i=dart" title='Dart' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=tailwind" title='TailwindCSS' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=dart" title='Dart' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=flutter" title='Flutter' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=git" title='Git' />&nbsp;&nbsp;
 </div>
 
