@@ -15,10 +15,14 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
   <img width="50px" src="https://skillicons.dev/icons?i=tailwind" title='TailwindCSS' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=dart" title='Dart' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=flutter" title='Flutter' />&nbsp;&nbsp;
+  
   <img width="50px" src="https://skillicons.dev/icons?i=npm" title='NPM' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=vite" title='Vite' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=vercel" title='Vercel' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=netlify" title='Netlify' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=git" title='Git' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=eclipse" title='Eclipse' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=vscode" title='VS Code' />&nbsp;&nbsp;
 </div>
 
 
@@ -27,6 +31,7 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
           <img width="50px" src="https://skillicons.dev/icons?i=nodejs" title='NodeJS' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=express" title='ExpressJS' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=mysql" title='MySql'/>&nbsp;&nbsp;
+          <img width="50px" src="https://skillicons.dev/icons?i=sqlite" title='SQLite' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=java" title='Java' />&nbsp;&nbsp;
 
 </div>
