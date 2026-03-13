@@ -33,6 +33,7 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
           <img width="50px" src="https://skillicons.dev/icons?i=mysql" title='MySql'/>&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=sqlite" title='SQLite' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=java" title='Java' />&nbsp;&nbsp;
+          <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" title='React Native' />&nbsp;&nbsp;
 
 </div>
 
@@ -40,9 +41,9 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
 ### 📚 Planejo Estudar
 <div align='center'>
           <img width="50px" src="https://skillicons.dev/icons?i=typescript" title='TypeScript' />&nbsp;&nbsp;
-          <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" title='React Native' />&nbsp;&nbsp;
           <img width='50px' src="https://skillicons.dev/icons?i=angular" title='Angular' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=docker" title='Docker' />&nbsp;&nbsp;
+          <img width="50px" src="https://skillicons.dev/icons?i=nextjs" title='NextJS' />&nbsp;&nbsp;
           
 </div>
 
