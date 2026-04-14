@@ -11,6 +11,7 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
   <img width="50px" src="https://skillicons.dev/icons?i=html" title='HTML5' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=css" title='CSS3' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=js" title='JavaScript' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=typescript" title='TypeScript' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=react" title='React' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=tailwind" title='TailwindCSS' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=dart" title='Dart' />&nbsp;&nbsp;
@@ -40,7 +41,6 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
 
 ### 📚 Planejo Estudar
 <div align='center'>
-          <img width="50px" src="https://skillicons.dev/icons?i=typescript" title='TypeScript' />&nbsp;&nbsp;
           <img width='50px' src="https://skillicons.dev/icons?i=angular" title='Angular' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=docker" title='Docker' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=nextjs" title='NextJS' />&nbsp;&nbsp;
