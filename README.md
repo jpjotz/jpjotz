@@ -33,6 +33,7 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
           <img width="50px" src="https://skillicons.dev/icons?i=express" title='ExpressJS' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=mysql" title='MySql'/>&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=sqlite" title='SQLite' />&nbsp;&nbsp;
+          <img width="50px" src="https://skillicons.dev/icons?i=mongodb" title='MongoDB' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=java" title='Java' />&nbsp;&nbsp;
           <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" title='React Native' />&nbsp;&nbsp;
 
