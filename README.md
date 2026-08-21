@@ -37,7 +37,7 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
           <img width="50px" src="https://skillicons.dev/icons?i=mongodb" title='MongoDB' />&nbsp;&nbsp;
           <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" title='React Native' />&nbsp;&nbsp;
           <img width='50px' src="https://skillicons.dev/icons?i=angular" title='Angular' />&nbsp;&nbsp;
-
+          <img width="50px" src="https://skillicons.dev/icons?i=unreal" title='Unreal Engine' />&nbsp;&nbsp;
 </div>
 
 
