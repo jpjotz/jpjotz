@@ -24,28 +24,30 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
   <img width="50px" src="https://skillicons.dev/icons?i=git" title='Git' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=eclipse" title='Eclipse' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=vscode" title='VS Code' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=nodejs" title='NodeJS' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=express" title='ExpressJS' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=java" title='Java' />&nbsp;&nbsp;
 </div>
 
 
 ### 📚 Estudando Atualmente
 <div align='center'>
-          <img width="50px" src="https://skillicons.dev/icons?i=nodejs" title='NodeJS' />&nbsp;&nbsp;
-          <img width="50px" src="https://skillicons.dev/icons?i=express" title='ExpressJS' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=mysql" title='MySql'/>&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=sqlite" title='SQLite' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=mongodb" title='MongoDB' />&nbsp;&nbsp;
-          <img width="50px" src="https://skillicons.dev/icons?i=java" title='Java' />&nbsp;&nbsp;
           <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" title='React Native' />&nbsp;&nbsp;
+          <img width='50px' src="https://skillicons.dev/icons?i=angular" title='Angular' />&nbsp;&nbsp;
 
 </div>
 
 
 ### 📚 Planejo Estudar
 <div align='center'>
-          <img width='50px' src="https://skillicons.dev/icons?i=angular" title='Angular' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=docker" title='Docker' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=nextjs" title='NextJS' />&nbsp;&nbsp;
-          
+          <img width="50px" src="https://skillicons.dev/icons?i=nestjs" title='NestJS' />&nbsp;&nbsp;
+          <img width="50px" src="https://skillicons.dev/icons?i=nextjs" title='NextJS' />&nbsp;&nbsp;
+          <img width="50px" src="https://skillicons.dev/icons?i=spring" title='Spring Boot' />&nbsp;&nbsp;
 </div>
 
 # 📲 Contatos
