@@ -25,6 +25,7 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
   <img width="50px" src="https://skillicons.dev/icons?i=eclipse" title='Eclipse' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=vscode" title='VS Code' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=nodejs" title='NodeJS' />&nbsp;&nbsp;
+
   <img width="50px" src="https://skillicons.dev/icons?i=express" title='ExpressJS' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=java" title='Java' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=sequelize" title='Sequelize' />&nbsp;&nbsp;
