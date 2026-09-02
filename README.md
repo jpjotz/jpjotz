@@ -33,7 +33,7 @@ Gosto de entender como as aplicações funcionam por trás dos panos, desde a in
   <img width="50px" src="https://skillicons.dev/icons?i=sqlite" title='SQLite' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=mongodb" title='MongoDB' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=supabase" title='Supabase' />&nbsp;&nbsp;
-  <img width="50px" src="https://skillicons.dev/icons?i=postgres" title='Postgres' />&nbsp;&nbsp;
+  <img width="50px" src="https://skillicons.dev/icons?i=postgres" title='PostgreSQL' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=postman" title='Postman' />&nbsp;&nbsp;
 </div>
 
