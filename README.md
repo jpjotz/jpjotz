@@ -1,10 +1,11 @@
 # 🚀 Sobre mim
-Sou estudante de Ciência da Computação pela Universidade FUMEC e tenho contato com programação desde os 16 anos.
+Sou estudante de Ciência da Computação na Universidade FUMEC e tenho contato com programação desde os 16 anos.
 
-Atualmente desenvolvo aplicações web utilizando React, com foco em organização de projetos, componentização, consumo de APIs e construção de interfaces modernas e responsivas. Tenho experiência com HTML, CSS, JavaScript e Tailwind, e venho expandindo meus conhecimentos em backend com Node.js, Express, MySQL e Java.
+Atualmente, desenvolvo aplicações web utilizando React e Angular, com foco em componentização, organização de projetos, consumo e desenvolvimento de APIs e construção de interfaces modernas e responsivas.
 
-Gosto de entender como as aplicações funcionam por trás dos panos, desde a interface até a comunicação com banco de dados, buscando sempre evoluir na construção de sistemas mais completos e bem estruturados.
+No backend, venho trabalhando com Node.js, Express e Java, além de bancos de dados como MySQL e PostgreSQL. Também estudo TypeScript, autenticação, WebSockets e arquitetura de aplicações, buscando entender cada vez melhor como as diferentes partes de um sistema se comunicam.
 
+Gosto de entender como as coisas funcionam por trás dos panos, desde a interface até o backend, banco de dados e comunicação entre sistemas. Meu objetivo é continuar evoluindo e construir aplicações cada vez mais completas e bem estruturadas.
 
 # 🛠 Tecnologias
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">&nbsp;&nbsp;
