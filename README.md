@@ -14,6 +14,7 @@ Gosto de entender como as coisas funcionam por trás dos panos, desde a interfac
   <img width="50px" src="https://skillicons.dev/icons?i=js" title='JavaScript' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=typescript" title='TypeScript' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=react" title='React' />&nbsp;&nbsp;
+  <img width="50px" src="https://skills.syvixor.com/api/icons?i=reactrouter&perline=12&radius=40" title='React Router' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=tailwind" title='TailwindCSS' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=dart" title='Dart' />&nbsp;&nbsp;
   <img width="50px" src="https://skillicons.dev/icons?i=flutter" title='Flutter' />&nbsp;&nbsp;
@@ -41,7 +42,7 @@ Gosto de entender como as coisas funcionam por trás dos panos, desde a interfac
 
 ### 📚 Estudando Atualmente
 <div align='center'>
-          <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" title='React Native' />&nbsp;&nbsp;
+          <img width='50px' src="https://skills.syvixor.com/api/icons?i=reactnative&perline=12&radius=40" title='React Native' />&nbsp;&nbsp;
           <img width='50px' src="https://skillicons.dev/icons?i=angular" title='Angular' />&nbsp;&nbsp;
           <img width="50px" src="https://skillicons.dev/icons?i=unreal" title='Unreal Engine' />&nbsp;&nbsp;
 </div>
@@ -57,7 +58,7 @@ Gosto de entender como as coisas funcionam por trás dos panos, desde a interfac
 
 # 📲 Contatos
 <div align='center'>
-          <a href="https://wa.me/5531986298378" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>&nbsp;&nbsp;
+          <a href="https://wa.me/5531986298378" target="_blank"> <img src="https://skills.syvixor.com/api/icons?i=whatsapp&perline=12&radius=40"> </a>&nbsp;&nbsp;
           <a href = "mailto:joaop.ribeiroo01@gmail.com"> <img loading="lazy" src="https://skillicons.dev/icons?i=gmail"> </a>&nbsp;&nbsp;
           <a href="https://www.linkedin.com/in/joao-pedro-do-espirito-santo-ribeiro/" target="_blank"> <img loading="lazy" src="https://skillicons.dev/icons?i=linkedin"></a> &nbsp;&nbsp;
 </div>
