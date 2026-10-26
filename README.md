@@ -67,8 +67,8 @@ Gosto de entender como as coisas funcionam por trás dos panos, desde a interfac
 # 📊 Stats
 <div align="center">
           <a href="https://github.com/jpjotz">
-          <img loading="lazy" height="180em" src="https://readme-stats-github.pages.dev/api?username=jpjotz"/>
-          <img loading="lazy" height="180em" src="https://readme-stats-github.pages.dev/api/top-langs?username=jpjotz"/>
+          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jpjotz&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpjotz&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 
